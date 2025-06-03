@@ -20,7 +20,7 @@ O objetivo é explorar os dados de GHI obtidos a partir de uma base climática c
 
 ---
 
-## 📊 Tecnologias utilizadas
+## ⚙️ Tecnologias utilizadas
 
 - Python 3 (Google Colab)
 - Pandas
